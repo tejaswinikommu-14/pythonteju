@@ -1,0 +1,7 @@
+print("enter the following details:")
+a=str(input('enter your name:-'))
+b=str(input('enter your address:'))
+c=int(input('enter age:'))
+print(a)
+print(b)
+print(c)
